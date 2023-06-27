@@ -1,0 +1,5 @@
+# docker related files
+/phpmyadmin
+/docker-compose/mysql/data
+.DS_Store
+.env
